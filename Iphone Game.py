@@ -18,3 +18,5 @@ while feeling_brave:
         score = score + 1
 print('Congratulations!!! U have found the Iphone XII Pro Max but not in RL...LOL')
 print('Game over! You scored', score)
+print("U only have two mins to view ur score")
+exit(120)
